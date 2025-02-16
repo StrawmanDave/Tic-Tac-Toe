@@ -1,0 +1,15 @@
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Tic-Tac-Toe\bin\Debug\net9.0\Tic-Tac-Toe.exe
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Tic-Tac-Toe\bin\Debug\net9.0\Tic-Tac-Toe.deps.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Tic-Tac-Toe\bin\Debug\net9.0\Tic-Tac-Toe.runtimeconfig.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Tic-Tac-Toe\bin\Debug\net9.0\Tic-Tac-Toe.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Tic-Tac-Toe\bin\Debug\net9.0\Tic-Tac-Toe.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Tic-Tac-Toe\obj\Debug\net9.0\Tic-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Tic-Tac-Toe\obj\Debug\net9.0\Tic-Tac-Toe.AssemblyInfoInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Tic-Tac-Toe\obj\Debug\net9.0\Tic-Tac-Toe.AssemblyInfo.cs
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Tic-Tac-Toe\obj\Debug\net9.0\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Tic-Tac-Toe\obj\Debug\net9.0\Tic-Tac-Toe.sourcelink.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Tic-Tac-Toe\obj\Debug\net9.0\Tic-Tac-Toe.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Tic-Tac-Toe\obj\Debug\net9.0\refint\Tic-Tac-Toe.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Tic-Tac-Toe\obj\Debug\net9.0\Tic-Tac-Toe.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Tic-Tac-Toe\obj\Debug\net9.0\Tic-Tac-Toe.genruntimeconfig.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Tic-Tac-Toe\obj\Debug\net9.0\ref\Tic-Tac-Toe.dll
